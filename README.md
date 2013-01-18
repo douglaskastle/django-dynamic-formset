@@ -2,6 +2,7 @@ django-dynamic-formset
 ======================
 
 This is a fork of some code over on google code, https://code.google.com/p/django-dynamic-formset/
+Example now works with Django1.4 and jquery 1.9.0
 
 ============================================
 A jQuery plugin for managing Django formsets
